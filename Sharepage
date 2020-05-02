@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bandit.com</title>
+    </head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <body>
+      <style>
+          .monospace {
+    font-family: "Lucida Console", Courier, monospace;
+  }
+        </style>
+        <h2 style="color:#00ccff;" class="monospace">Subscribe. Follow. Share. </h2>
+        <li><a href="https://www.youtube.com/" style="color:Gray;" class="monospace">YouTube<a/></li>
+        <li><a href="https://www.instagram.com/" style="color:Gray;" class="monospace">Instagram<a/></li>
+        <li><a href="https://soundcloud.com/" style="color:Gray;" class="monospace">Soundcloud<a/></li>
+          <li><a href="https://facebook.com/" style="color:Gray;" class="monospace">Facebook<a/></li>
+            <li><a href="https://twitter.com/" style="color:Gray;" class="monospace">Twitter<a/></li>
+        <li><a href="Discoverpage.html" style="color:#4d4d4d;" class="monospace">Back to Social Media.</li>
+    </body>
+</html>
+<!--This is the Sharepage.html-->

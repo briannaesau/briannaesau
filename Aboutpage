@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bandit.com</title>
+    </head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <body>
+    <style>
+        .monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
+      </style>
+      <h1 style="color:#00ccff;" class="monospace">The Beginning</h1>
+      <p style="color:Gray;" class="monospace">Bandit started making music in September of 2018. Since then she has make multiple social media profiles and has been growing her audience.
+      <li><a href="Sharepage.html" style="color:#4d4d4d;" class="monospace">Share.</li>
+      <li><a href="Welcomepage.html" style="color:#4d4d4d;" class="monospace">Back.</li>
+    </body>
+</html>
+<!--This is the Aboutpage.html-->
