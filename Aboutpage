@@ -11,9 +11,10 @@
 }
       </style>
       <h1 style="color:#00ccff;" class="monospace">The Beginning</h1>
-      <p style="color:Gray;" class="monospace">Bandit started making music in September of 2018. Since then she has make multiple social media profiles and has been growing her audience.
+      <p style="color:Gray;" class="monospace">Bandit started making music in September of 2018. Since then she has make multiple social media profiles and has been growing her audience since.
       <li><a href="Sharepage.html" style="color:#4d4d4d;" class="monospace">Share.</li>
-      <li><a href="Welcomepage.html" style="color:#4d4d4d;" class="monospace">Back.</li>
+      <li><a href="Sharepage.html" style="color:#4d4d4d;" class="monospace">Back to Share.</li>
+          <li><a href="Discoverpage.html" style="color:#4d4d4d;" class="monospace">Back to Discover.</li>
     </body>
 </html>
 <!--This is the Aboutpage.html-->
