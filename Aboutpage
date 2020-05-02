@@ -9,6 +9,9 @@
         .monospace {
   font-family: "Lucida Console", Courier, monospace;
 }
+		.center {
+  text-align: center
+}
       </style>
       <h1 style="color:#00ccff;" class="monospace">The Beginning</h1>
       <p style="color:Gray;" class="monospace">Bandit started making music in September of 2018. Since then she has make multiple social media profiles and has been growing her audience since.
