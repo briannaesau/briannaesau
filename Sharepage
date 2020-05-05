@@ -19,7 +19,7 @@
         <li><a href="https://soundcloud.com/" style="color:Gray;" class="monospace">Soundcloud<a/></li>
           <li><a href="https://facebook.com/" style="color:Gray;" class="monospace">Facebook<a/></li>
             <li><a href="https://twitter.com/" style="color:Gray;" class="monospace">Twitter<a/></li>
-        <li><a href="Discoverpage.html" style="color:#4d4d4d;" class="monospace">Back to Discover.</li>
+        <li><a href="index.html" style="color:#4d4d4d;" class="monospace">Back to Discover.</li>
         <li><a href="Aboutpage.html" style="color:#4d4d4d;" class="monospace">About.</li>
     </body>
 </html>
